@@ -21,7 +21,11 @@ Cart & Checkout: Easy-to-use cart functionality with a simple checkout process.
 Order Confirmation: A confirmation screen with order tracking and delivery details.
 
 
-Tech Stack
+
+
+
+
+Tech Stack:-
 
 
 Design Tool: Figma / Adobe XD (if applicable)
@@ -29,7 +33,10 @@ Design Tool: Figma / Adobe XD (if applicable)
 Icons & Components: Custom vector icons and material design components
 
 
-Screens Included
+
+
+
+Screens Included:-
 
 
 Splash Screen
