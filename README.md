@@ -23,7 +23,11 @@ Icons & Components: Custom vector icons and material design components
 Screens Included
 
 Splash Screen
+
 Home Screen (Categories & Featured Collections)
+
 Product Listing Page
+
 Product Details Page
+
 Checkout & Order Confirmation
